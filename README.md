@@ -19,6 +19,7 @@
     <br>
     <a href='https://arxiv.org/abs/2503.02268'><img src='https://img.shields.io/badge/ArXiv-2503.02268-red'></a>&nbsp;
     <a href='https://appagentx.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>&nbsp;
+    <a href='https://appagent-official.github.io/'><img src='https://img.shields.io/badge/AppAgent-Official-blue'></a>&nbsp;
     <br>
     <img src="https://appagentx.github.io/static/images/Teaser-V.jpg">
   </p>
