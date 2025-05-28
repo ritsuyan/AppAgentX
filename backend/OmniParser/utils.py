@@ -1,5 +1,7 @@
-# from ultralytics import YOLO
 import os
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
+
+# from ultralytics import YOLO
 import io
 import base64
 import time
